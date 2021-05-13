@@ -1,5 +1,3 @@
-Challenging 3
-
 # Overview of Election Audit
  
 This project provides the election audit results to the election commission.
